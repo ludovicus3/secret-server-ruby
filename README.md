@@ -128,18 +128,8 @@ To install this gem onto your local machine, run `bundle exec rake install`.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/tonygambone/secret-server-ruby.
+Bug reports and pull requests are welcome on GitHub at https://github.com/thycotic/secret-server-ruby.
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-## TODO
-
-* Automated SDK client installation
-* Check if `tss` is a supported version, if it ever supports versioning
-* Integration testing
-* Add links to SDK client documentation where needed
-* Release to GitHub official
-* Release to Rubygems
-
