@@ -4,6 +4,8 @@ A gem for using Thycotic Secret Server as a vault for storing secrets and consum
 
 Requires Secret Server 10.4 and higher, and an installation of the Secret Server SDK client tool.
 
+For general documentation about the SDK, go to https://github.com/thycotic/sdk-documentation.
+
 This gem is unofficial and not supported by Thycotic.
 
 ## Installation
